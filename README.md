@@ -1,4 +1,4 @@
-#Git Demo
+# Git Demo
 ## About this repo
 - THis repo shows git cloning
 - I include a list, an image, and a link
